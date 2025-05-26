@@ -3,7 +3,7 @@
 A simple and user-friendly web app to **track your income and expenses**. Easily add, edit, and delete transactions, whether they're earnings or expenses — all in one place.
 
 ### 🚀 Live Demo  
-🔗 [Check it out on Vercel]([https://your-vercel-link.vercel.app](https://expense-tracker-chi-ashen-10.vercel.app/))
+🔗 [Check it out on Vercel]([https://expense-tracker-chi-ashen-10.vercel.app/])
 
 ---
 
@@ -20,7 +20,7 @@ A simple and user-friendly web app to **track your income and expenses**. Easily
 ## 🛠️ Tech Stack
 
 - **Frontend:** HTML, CSS, JavaScript
-- **Deployment:** [Vercel]([https://vercel.com](https://expense-tracker-chi-ashen-10.vercel.app/))
+- **Deployment:** [Vercel]([https://expense-tracker-chi-ashen-10.vercel.app/])
 
 ---
 
